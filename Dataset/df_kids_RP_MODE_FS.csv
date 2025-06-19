@@ -1,0 +1,685 @@
+UMUR (BULAN),BANGSA,AGAMA,JANTINA,PENDAPATAN KELUARGA,STATUS PEMAKANAN,DAERAH,JENIS TASKA,TASKA_LOKASI,BMI
+60,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+54,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+53,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Di Rumah,BANDAR,Risiko berlebihan berat badan
+52,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+58,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Barat Daya,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+60,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+48,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+52,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut teruk
+56,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Daerah Barat Daya,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+51,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+46,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berlebihan berat badan
+59,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+55,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut
+47,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+49,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+46,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+49,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+49,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+52,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+54,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut
+58,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Rumah,BANDAR,Berat badan normal
+44,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+59,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Obes
+43,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+51,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+53,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut
+49,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut
+57,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+44,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+60,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+56,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut teruk
+56,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut
+54,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Susut
+56,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat badan normal
+49,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat badan normal
+58,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat badan normal
+58,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Berat badan normal
+56,Cina,Buddha,LELAKI,B40,Malpemakanan,Daerah Timur Laut,TASKA Institusi,BANDAR,Obes
+56,Cina,Buddha,LELAKI,B40,Malpemakanan,Daerah Timur Laut,TASKA Institusi,BANDAR,Obes
+56,Cina,Buddha,LELAKI,B40,Malpemakanan,Daerah Timur Laut,TASKA Institusi,BANDAR,Obes
+60,Cina,Buddha,LELAKI,B40,Malpemakanan,Daerah Timur Laut,TASKA Institusi,BANDAR,Obes
+57,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Daerah Timur Laut,TASKA Institusi,BANDAR,Obes
+51,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut
+53,Melayu,Islam,LELAKI,T20,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut
+46,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut teruk
+43,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+52,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Susut teruk
+53,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat badan normal
+52,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berlebihan berat badan
+58,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Obes
+44,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Risiko berlebihan berat badan
+52,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+53,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut teruk
+42,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+50,Melayu,Islam,LELAKI,T20,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut teruk
+49,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut teruk
+48,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+47,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+55,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Rumah,BANDAR,Berlebihan berat badan
+47,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+51,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+50,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+59,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+57,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+54,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+56,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+56,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+48,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+45,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat badan normal
+45,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,LUAR BANDAR,Berlebihan berat badan
+48,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,LUAR BANDAR,Berat badan normal
+48,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut
+53,Lain-lain,Buddha,PEREMPUAN,T20,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut teruk
+52,Cina,Buddha,LELAKI,T20,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
+43,Cina,Buddha,PEREMPUAN,T20,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Berat badan normal
+55,Cina,Buddha,LELAKI,T20,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
+56,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
+56,India,Hindu,PEREMPUAN,T20,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
+60,Cina,Buddha,PEREMPUAN,T20,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut teruk
+57,Lain-lain,Lain-lain,LELAKI,M40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
+59,Cina,Buddha,PEREMPUAN,T20,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
+54,Cina,Buddha,LELAKI,T20,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut teruk
+60,Cina,Buddha,LELAKI,T20,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
+43,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut
+52,Cina,Buddha,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+50,Cina,Buddha,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut
+53,Cina,Buddha,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut
+54,Cina,Buddha,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut teruk
+50,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Selatan,TASKA Institusi,BANDAR,Obes
+58,Cina,Buddha,PEREMPUAN,M40,Malpemakanan,Daerah Barat Daya,TASKA Di Rumah,BANDAR,Risiko berlebihan berat badan
+50,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+54,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+58,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+49,Cina,Lain-lain,LELAKI,M40,Malpemakanan,Daerah Barat Daya,TASKA Di Rumah,BANDAR,Berlebihan berat badan
+44,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+52,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+45,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+57,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+47,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berlebihan berat badan
+45,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berlebihan berat badan
+46,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Berat badan normal
+48,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Berat badan normal
+48,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Obes
+49,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Berlebihan berat badan
+50,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+50,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
+50,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Berlebihan berat badan
+40,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Berlebihan berat badan
+43,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Selatan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berlebihan berat badan
+55,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Selatan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat badan normal
+40,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Selatan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berlebihan berat badan
+41,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+50,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut
+43,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Risiko berlebihan berat badan
+49,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Risiko berlebihan berat badan
+41,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+38,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Obes
+41,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut teruk
+46,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+51,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+60,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+40,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+47,Melayu,Islam,LELAKI,T20,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+41,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+40,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Obes
+35,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Obes
+35,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Obes
+52,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Barat Daya,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+49,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut
+43,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut
+50,Melayu,Islam,PEREMPUAN,B40,Normal,Daerah Barat Daya,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+52,Melayu,Islam,LELAKI,B40,Normal,Daerah Barat Daya,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+56,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+58,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+57,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+57,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+58,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Obes
+58,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut
+50,Melayu,Islam,PEREMPUAN,T20,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+39,Melayu,Islam,LELAKI,T20,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+39,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+37,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+42,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Risiko berlebihan berat badan
+38,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+33,Melayu,Islam,LELAKI,T20,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+41,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut
+51,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+52,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+35,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut
+39,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut teruk
+40,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+40,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+50,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut
+45,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+50,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut
+42,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Obes
+41,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Obes
+41,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Obes
+43,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat badan normal
+57,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Berlebihan berat badan
+35,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Obes
+44,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+37,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+54,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+57,Cina,Buddha,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+31,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+36,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+47,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+46,Cina,Buddha,LELAKI,M40,Malpemakanan,Daerah Barat Daya,TASKA Di Rumah,BANDAR,Berat badan normal
+45,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+42,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+34,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+34,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+45,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Obes
+46,Cina,Buddha,LELAKI,T20,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+45,Cina,Buddha,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+37,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+31,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Rumah,BANDAR,Risiko berlebihan berat badan
+36,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Rumah,BANDAR,Risiko berlebihan berat badan
+33,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Rumah,BANDAR,Risiko berlebihan berat badan
+49,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+43,Kedayan,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+40,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+39,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+53,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+53,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+44,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+57,Cina,Buddha,LELAKI,M40,Normal,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+50,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut
+51,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+51,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+30,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+42,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut teruk
+45,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut teruk
+49,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Selatan,TASKA Institusi,LUAR BANDAR,Berat badan normal
+37,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+45,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+49,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Obes
+50,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Obes
+39,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Obes
+35,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Obes
+38,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Obes
+52,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Obes
+26,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+34,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+39,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+40,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+38,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+37,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+38,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+50,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+37,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+37,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+49,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+55,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut
+60,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+34,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+37,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+33,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+36,Cina,Kristian,LELAKI,M40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+51,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+43,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+37,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+56,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Risiko berlebihan berat badan
+38,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut teruk
+32,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut teruk
+51,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+35,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+57,Cina,Buddha,PEREMPUAN,M40,Normal,Seberang Perai Selatan,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+40,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+39,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut
+41,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+31,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+55,Cina,Buddha,PEREMPUAN,M40,Normal,Seberang Perai Selatan,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+55,Cina,Buddha,PEREMPUAN,M40,Normal,Seberang Perai Selatan,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+58,Cina,Buddha,PEREMPUAN,M40,Normal,Seberang Perai Selatan,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+38,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+39,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut
+37,Cina,Buddha,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut
+41,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+41,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+36,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+40,Melayu,Islam,LELAKI,T20,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+39,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+52,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+37,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat badan normal
+37,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat badan normal
+36,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berlebihan berat badan
+36,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+51,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+33,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+60,Cina,Buddha,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut
+47,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Berlebihan berat badan
+40,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+43,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+33,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Selatan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Risiko berlebihan berat badan
+37,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Selatan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berlebihan berat badan
+33,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Selatan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berlebihan berat badan
+39,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Selatan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat badan normal
+48,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Obes
+41,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berlebihan berat badan
+36,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Obes
+48,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Obes
+36,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Obes
+27,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berlebihan berat badan
+55,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berlebihan berat badan
+37,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berlebihan berat badan
+51,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Obes
+33,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Obes
+50,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Obes
+59,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Obes
+45,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat badan normal
+54,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat badan normal
+49,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Obes
+49,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Obes
+35,Melayu,Islam,LELAKI,T20,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Risiko berlebihan berat badan
+57,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Risiko berlebihan berat badan
+47,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Risiko berlebihan berat badan
+49,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Risiko berlebihan berat badan
+44,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat badan normal
+49,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Obes
+32,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Obes
+33,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Obes
+36,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berlebihan berat badan
+36,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Risiko berlebihan berat badan
+32,Melayu,Islam,LELAKI,T20,Normal,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat badan normal
+33,Melayu,Islam,LELAKI,T20,Normal,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat badan normal
+48,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+36,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+29,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+28,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+29,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+50,Cina,Buddha,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+43,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+49,Cina,Buddha,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+51,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+51,India,Hindu,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+49,India,Hindu,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+43,Cina,Kristian,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+52,Cina,Buddha,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+50,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut
+31,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut teruk
+41,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+50,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+24,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+34,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+20,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Susut
+39,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Susut teruk
+48,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Berlebihan berat badan
+37,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Susut
+32,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Risiko berlebihan berat badan
+34,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Susut teruk
+45,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+36,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+29,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+44,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+36,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut teruk
+33,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+18,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+31,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+32,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+38,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut
+44,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut
+44,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+48,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+53,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+45,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+49,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+49,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Obes
+47,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+50,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+53,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+51,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut
+53,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+56,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+55,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+55,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut
+54,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+59,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+59,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+49,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+44,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+39,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berlebihan berat badan
+44,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut teruk
+51,Melayu,Islam,PEREMPUAN,M40,Normal,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+49,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+53,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+41,Melayu,Islam,LELAKI,B40,Normal,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+41,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+41,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut teruk
+44,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+49,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+41,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+40,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+49,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+33,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Obes
+43,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+49,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Obes
+43,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+30,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut teruk
+18,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+44,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berlebihan berat badan
+46,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berlebihan berat badan
+32,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Obes
+45,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+46,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+51,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+48,Melayu,Islam,LELAKI,T20,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Obes
+53,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+41,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+50,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+38,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+37,Melayu,Islam,LELAKI,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Obes
+47,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Obes
+45,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+48,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+48,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+43,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+45,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+50,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+49,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Obes
+51,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+51,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+53,Melayu,Islam,LELAKI,Miskin,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+52,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+49,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut teruk
+47,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut teruk
+43,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+50,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+51,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+53,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+45,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+44,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+43,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+49,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Obes
+53,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut teruk
+43,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+48,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+46,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+48,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+48,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+50,Melayu,Islam,PEREMPUAN,T20,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut
+41,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+50,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+48,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+48,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Obes
+48,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+40,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+50,Melayu,Islam,LELAKI,M40,Malpemakanan,Daerah Barat Daya,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+46,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+52,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+49,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+40,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+33,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+32,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+29,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Susut teruk
+39,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+31,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+46,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+37,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+43,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+37,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut
+16,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+45,Cina,Buddha,LELAKI,M40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut teruk
+51,Cina,Buddha,PEREMPUAN,M40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut teruk
+48,Cina,Buddha,LELAKI,M40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
+49,Cina,Kristian,LELAKI,M40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut teruk
+45,Cina,Kristian,LELAKI,M40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut teruk
+40,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+51,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+48,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+45,Melayu,Islam,PEREMPUAN,B40,Normal,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+45,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+49,Melayu,Islam,PEREMPUAN,B40,Normal,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+50,Melayu,Islam,PEREMPUAN,B40,Normal,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+18,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+38,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Obes
+27,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+25,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+23,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+31,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+30,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+32,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+29,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+29,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+40,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+37,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+30,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Risiko berlebihan berat badan
+32,Cina,Buddha,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+34,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+46,Melayu,Islam,LELAKI,T20,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+48,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+34,Bumiputra Sabah,Kristian,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+37,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+41,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut teruk
+39,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+48,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+52,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+40,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+34,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+46,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+42,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+36,Melayu,Islam,LELAKI,T20,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+29,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berlebihan berat badan
+21,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+19,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+30,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+31,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+15,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Susut teruk
+16,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+20,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+38,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+32,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+43,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Susut teruk
+29,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+32,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+49,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Susut
+23,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Risiko berlebihan berat badan
+37,Cina,Kristian,PEREMPUAN,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Berlebihan berat badan
+37,India,Hindu,PEREMPUAN,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+33,Cina,Kristian,LELAKI,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Berat badan normal
+40,Cina,Kristian,LELAKI,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
+41,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Berlebihan berat badan
+40,Cina,Buddha,LELAKI,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Berat badan normal
+34,Cina,Buddha,PEREMPUAN,B40,Normal,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
+36,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut teruk
+42,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+52,Cina,Buddha,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut
+46,Cina,Kristian,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+42,Cina,Buddha,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+53,Cina,Buddha,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+41,Cina,Kristian,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+45,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+42,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Obes
+46,Cina,Buddha,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+44,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+44,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+33,Cina,Buddha,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+35,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+36,Cina,Buddha,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+36,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+31,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berlebihan berat badan
+41,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+27,Cina,Buddha,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+30,Cina,Buddha,PEREMPUAN,B40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+24,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+25,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+20,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+26,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+37,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+32,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+39,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+32,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+40,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+40,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+45,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+49,Melayu,Islam,LELAKI,M40,Normal,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+46,Melayu,Islam,LELAKI,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut teruk
+35,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+36,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+30,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+36,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+37,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+28,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+48,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+36,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+32,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+47,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+43,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+31,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+53,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+49,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+31,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+43,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+41,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+41,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berlebihan berat badan
+50,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+50,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+41,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+37,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+41,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+36,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+34,Melayu,Islam,PEREMPUAN,Miskin,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+31,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+46,Melayu,Islam,PEREMPUAN,Miskin,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+26,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+33,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+46,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+50,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+51,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+49,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+34,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+36,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+37,Melayu,Islam,LELAKI,T20,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+31,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+36,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+30,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+42,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+48,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Obes
+45,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+49,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+44,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+53,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+50,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+45,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut
+39,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+36,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+32,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+50,Melayu,Islam,LELAKI,T20,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+40,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+39,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+38,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+34,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+52,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+50,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+46,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+43,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+53,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+52,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+49,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+48,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+46,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+46,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Selatan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+31,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Susut
+29,Melayu,Islam,PEREMPUAN,B40,Normal,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+39,Cina,Buddha,PEREMPUAN,B40,Normal,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
+30,Cina,Kristian,LELAKI,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+38,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+52,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+40,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+43,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+41,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+36,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+15,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+41,Cina,Buddha,LELAKI,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Berat badan normal
+32,Cina,Buddha,LELAKI,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+31,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+48,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+32,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+52,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+44,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+48,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Obes
+39,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berat badan normal
+33,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+53,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+40,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+37,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+34,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+43,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+35,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+44,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+48,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+41,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+52,Melayu,Islam,LELAKI,T20,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+52,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+51,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+47,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+47,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+41,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+42,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut teruk
+41,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+42,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+53,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut teruk
+48,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+43,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+51,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+34,Melayu,Islam,LELAKI,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+32,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+40,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+40,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Obes
+39,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+39,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+39,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+37,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut
+36,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+31,Melayu,Islam,LELAKI,M40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+49,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+31,Melayu,Islam,LELAKI,T20,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Susut
+36,Melayu,Islam,LELAKI,Miskin,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Risiko berlebihan berat badan
+7,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Risiko berlebihan berat badan
+8,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Obes
+11,Cina,Buddha,PEREMPUAN,M40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berlebihan berat badan
+32,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+31,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
+25,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
+26,Cina,Buddha,PEREMPUAN,B40,Error/Tiada Data,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+36,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
+33,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+39,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+30,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+40,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+39,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+31,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+46,Melayu,Islam,PEREMPUAN,M40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+53,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+42,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut
+44,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+44,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berlebihan berat badan
+40,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+20,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+31,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
+28,Cina,Kristian,PEREMPUAN,B40,Error/Tiada Data,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+17,Melayu,Islam,LELAKI,T20,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+19,Melayu,Islam,LELAKI,T20,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+43,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+24,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+38,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+33,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+40,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berlebihan berat badan
+48,Melayu,Islam,LELAKI,B40,Normal,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+36,Melayu,Islam,PEREMPUAN,M40,Normal,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+43,Melayu,Islam,LELAKI,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berlebihan berat badan
+35,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+30,Melayu,Islam,LELAKI,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berlebihan berat badan
+45,Melayu,Islam,LELAKI,B40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+46,Melayu,Islam,PEREMPUAN,B40,Normal,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+32,Melayu,Islam,LELAKI,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Susut teruk
+35,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berlebihan berat badan
+45,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
+35,Melayu,Islam,LELAKI,M40,Normal,Daerah Timur Laut,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
+26,Cina,Buddha,PEREMPUAN,M40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+33,Cina,Buddha,LELAKI,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
+21,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Berat badan normal
+22,Cina,Buddha,LELAKI,B40,Error/Tiada Data,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
