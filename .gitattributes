@@ -1,2 +1,4 @@
 D:/hp/Documents/Practicum/Code/Dataset/price.csv filter=lfs diff=lfs merge=lfs -text
 Dataset/price.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/Price_Data/*.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/Price_Data/test.csv filter=lfs diff=lfs merge=lfs -text
