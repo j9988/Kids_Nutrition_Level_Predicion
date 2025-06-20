@@ -5,6 +5,12 @@ import streamlit as st
 import matplotlib.pyplot as plt
 from streamlit_option_menu import option_menu
 
+st.set_page_config(
+    page_title="Kid's Nutrition Level Analysis and Prediction",
+    page_icon="🌮",  
+    layout="wide"   
+)
+
 # Load data
 @st.cache_data
 def load_price_data():
