@@ -1,9 +1,8 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 import pickle
+import pandas as pd
+import seaborn as sns
+import streamlit as st
+import matplotlib.pyplot as plt
 from streamlit_option_menu import option_menu
 
 # Load data
