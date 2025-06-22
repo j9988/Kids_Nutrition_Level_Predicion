@@ -1,0 +1,682 @@
+UMUR (BULAN),STATUS PEMAKANAN,JENIS TASKA,TASKA_LOKASI,BMI,banana_price,papaya_price,rice_price,bread_price,fish_price,chicken_price,carrot_price,tomato_price,cauliflower_price,milk_price
+60,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+54,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+53,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+52,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+58,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+60,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+48,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+52,Normal,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+56,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+51,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+46,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+59,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+55,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+47,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+46,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+52,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+54,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+58,Malpemakanan,TASKA Di Rumah,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+44,Normal,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+59,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+43,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+51,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+53,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+57,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+44,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+60,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+56,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+56,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+54,Normal,TASKA Di Rumah,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+56,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+58,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+58,Malpemakanan,TASKA Di Rumah,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+56,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+56,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+56,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+60,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+57,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+51,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+53,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+46,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+43,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+52,Malpemakanan,TASKA Di Rumah,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+53,Normal,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+52,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+58,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+44,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+52,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+53,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+42,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+48,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+47,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+55,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+47,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+51,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+50,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+59,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+57,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+54,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+56,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+56,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+48,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+45,Normal,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+45,Malpemakanan,TASKA Institusi,LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Malpemakanan,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+53,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+52,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+43,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+55,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+56,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+56,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+60,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+57,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+59,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+54,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+60,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+43,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+52,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+53,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+54,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+58,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+50,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+54,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+58,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+44,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+52,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+45,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+57,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+47,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+45,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+46,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+48,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+48,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+49,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+50,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+50,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+50,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+40,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+43,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+55,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+40,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+41,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+50,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+43,Normal,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+38,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+46,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+51,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+60,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+40,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+47,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+40,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+35,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+35,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+52,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+49,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+43,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+50,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+52,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+56,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+58,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+57,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+57,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+58,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+58,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+50,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+39,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+42,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+38,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+33,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+51,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+52,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+35,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+40,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+40,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Normal,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+45,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+42,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+41,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+41,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+43,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+57,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+35,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+44,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+54,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+57,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+31,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+47,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+46,Malpemakanan,TASKA Di Rumah,BANDAR,Normal,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+45,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+42,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+34,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+34,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+45,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+46,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+45,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+37,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+31,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+36,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+33,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+43,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+40,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+39,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+53,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+53,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+44,Normal,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+57,Normal,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+50,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+51,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+51,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+30,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+42,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+45,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Normal,TASKA Institusi,LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+37,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+45,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+50,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+35,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+38,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+52,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+26,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+34,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+40,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+38,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+38,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+50,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+55,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+60,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+34,Normal,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+37,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+33,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+36,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+51,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+43,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+56,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+38,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+32,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+51,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+35,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+57,Normal,TASKA Institusi,BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+40,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+31,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+55,Normal,TASKA Institusi,BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+55,Normal,TASKA Institusi,BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+58,Normal,TASKA Institusi,BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+38,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+39,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+37,Normal,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+41,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+41,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+36,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+40,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+39,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+52,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+37,Normal,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+37,Normal,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+36,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+36,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+51,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+33,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+60,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+47,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+40,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+43,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+33,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+37,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+33,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+39,Normal,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+48,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+27,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+55,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+51,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+33,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+50,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+59,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+45,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+54,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+35,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+57,Normal,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+47,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+44,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+32,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+33,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+36,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Normal,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+32,Normal,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+33,Normal,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+29,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+28,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+29,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+50,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+43,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+51,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+51,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+43,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+52,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+31,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+24,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+34,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+20,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,TASKA Di Rumah,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+32,Malpemakanan,TASKA Di Rumah,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+34,Malpemakanan,TASKA Di Tempat Kerja (Sektor Swasta),BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+45,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+29,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+44,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+33,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+18,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+31,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+32,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+38,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+44,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+44,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+48,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+53,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+45,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+49,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+49,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+47,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+50,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+53,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+51,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+53,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+56,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+55,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+55,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+54,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+59,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+59,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+49,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+44,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+44,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+51,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+49,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+53,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+41,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+41,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+44,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+49,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+41,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+40,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+33,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+43,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+49,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+43,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+30,Normal,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+18,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+44,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+46,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+32,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+45,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+46,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+51,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+53,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+41,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+38,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+47,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+45,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+48,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+48,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+43,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+45,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+51,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+51,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+53,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+52,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+47,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+43,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+50,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+51,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+53,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+45,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+44,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+43,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+53,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+43,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+46,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+48,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+48,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+40,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+46,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+52,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+40,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+33,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+32,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+29,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+31,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+46,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+43,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+16,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+45,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+51,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+48,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+49,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+45,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+40,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+51,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+48,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+45,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+45,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+49,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+50,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+18,Malpemakanan,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+38,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+27,Normal,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+25,Malpemakanan,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+23,Normal,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+31,Normal,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+30,Normal,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+32,Normal,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+29,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+29,Normal,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+40,Malpemakanan,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+37,Normal,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+30,Malpemakanan,TASKA Institusi,LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+32,Malpemakanan,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+34,Malpemakanan,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+46,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+34,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+37,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+52,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+40,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+34,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+46,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+42,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+29,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+21,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+19,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+30,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+31,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+15,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+16,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+20,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+38,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+32,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+43,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+29,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+32,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+23,Malpemakanan,TASKA Di Tempat Kerja (Sektor Awam),BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+37,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+37,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+33,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+40,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+41,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+40,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+34,Normal,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+36,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+42,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+52,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+46,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+42,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+53,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+41,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+45,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+42,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+46,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+44,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+44,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+33,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+35,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+36,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+36,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+31,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+41,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+27,Normal,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+30,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+24,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+25,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+20,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+26,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+32,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+32,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+40,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+40,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+45,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+49,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+46,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+35,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+36,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+30,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+36,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+37,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+28,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+48,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+36,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+32,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+47,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+43,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+31,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+53,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+49,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+31,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+43,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+41,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+41,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+50,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+41,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+37,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+41,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+36,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+34,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+31,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+46,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+26,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+33,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+46,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+50,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+51,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+34,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+31,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+30,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+42,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+45,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+44,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+53,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+50,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+45,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+36,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+32,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+50,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+40,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+39,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+38,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+34,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+52,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+50,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+46,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+43,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+53,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+52,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+49,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+48,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+46,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+46,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,5.5,4.0,25.9,2.8,12.0,8.9,4.5,5.0,7.99,20.9
+31,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+29,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+39,Normal,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+30,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+38,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+52,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+40,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+43,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+15,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+32,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+31,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+32,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+52,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+44,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,TASKA Institusi,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+33,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+53,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+40,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+34,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+43,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+35,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+44,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+52,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+52,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+51,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+47,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+47,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+42,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+41,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+42,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+53,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+48,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+43,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+51,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+34,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+32,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+40,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+40,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+37,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+31,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+49,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+31,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Kurang berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+7,Malpemakanan,TASKA Institusi,LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+8,Malpemakanan,TASKA Institusi,LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+11,Malpemakanan,TASKA Institusi,LUAR BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+32,Normal,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+31,Malpemakanan,TASKA Institusi,LUAR BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+25,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+36,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat berlebihan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+33,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+39,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+30,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+40,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+39,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+31,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+46,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+53,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+42,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+44,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+44,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+40,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+20,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+31,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+17,Malpemakanan,TASKA Institusi,BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+19,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+43,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+24,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+38,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+33,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+40,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+48,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+36,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+43,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+35,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+30,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+45,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+46,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+32,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Kurang berat badan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+35,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+45,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat berlebihan,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+35,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Normal,6.0,4.89,25.9,2.8,10.0,8.99,5.0,5.49,8.9,20.9
+26,Normal,TASKA Institusi,BANDAR,Normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
+33,Malpemakanan,TASKA Institusi,BANDAR,Kurang berat badan,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
+21,Malpemakanan,TASKA Di Rumah,BANDAR,Normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
