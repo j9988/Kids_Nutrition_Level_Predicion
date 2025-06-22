@@ -644,7 +644,7 @@ UMUR (BULAN),BANGSA,AGAMA,JANTINA,PENDAPATAN KELUARGA,STATUS PEMAKANAN,DAERAH,JE
 32,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
 31,Melayu,Islam,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,LUAR BANDAR,Berat badan normal
 25,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,TASKA Institusi,BANDAR,Berlebihan berat badan
-26,Cina,Buddha,PEREMPUAN,B40,Error/Tiada Data,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
+26,Cina,Buddha,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
 36,Melayu,Islam,LELAKI,B40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan
 33,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
 39,Melayu,Islam,PEREMPUAN,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan
@@ -660,7 +660,7 @@ UMUR (BULAN),BANGSA,AGAMA,JANTINA,PENDAPATAN KELUARGA,STATUS PEMAKANAN,DAERAH,JE
 40,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
 20,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
 31,Melayu,Islam,PEREMPUAN,M40,Malpemakanan,Seberang Perai Utara,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal
-28,Cina,Kristian,PEREMPUAN,B40,Error/Tiada Data,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+28,Cina,Kristian,PEREMPUAN,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
 17,Melayu,Islam,LELAKI,T20,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Risiko berlebihan berat badan
 19,Melayu,Islam,LELAKI,T20,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
 43,Melayu,Islam,LELAKI,B40,Normal,Seberang Perai Tengah,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal
@@ -682,4 +682,4 @@ UMUR (BULAN),BANGSA,AGAMA,JANTINA,PENDAPATAN KELUARGA,STATUS PEMAKANAN,DAERAH,JE
 26,Cina,Buddha,PEREMPUAN,M40,Normal,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
 33,Cina,Buddha,LELAKI,B40,Malpemakanan,Daerah Barat Daya,TASKA Institusi,BANDAR,Susut
 21,Melayu,Islam,PEREMPUAN,T20,Malpemakanan,Seberang Perai Utara,TASKA Di Rumah,BANDAR,Berat badan normal
-22,Cina,Buddha,LELAKI,B40,Error/Tiada Data,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal
+22,Cina,Buddha,LELAKI,B40,Malpemakanan,Seberang Perai Tengah,TASKA Institusi,BANDAR,Berat badan normal

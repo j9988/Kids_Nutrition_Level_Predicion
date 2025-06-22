@@ -644,6 +644,7 @@ UMUR (BULAN),STATUS PEMAKANAN,JENIS TASKA,TASKA_LOKASI,BMI,banana_price,papaya_p
 32,Normal,TASKA Institusi,LUAR BANDAR,Berat badan normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
 31,Malpemakanan,TASKA Institusi,LUAR BANDAR,Berat badan normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
 25,Malpemakanan,TASKA Institusi,BANDAR,Berlebihan berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+26,Malpemakanan,TASKA Institusi,BANDAR,Risiko berlebihan berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
 36,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berlebihan berat badan,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
 33,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
 39,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Risiko berlebihan berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
@@ -659,6 +660,7 @@ UMUR (BULAN),STATUS PEMAKANAN,JENIS TASKA,TASKA_LOKASI,BMI,banana_price,papaya_p
 40,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
 20,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
 31,Malpemakanan,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",LUAR BANDAR,Berat badan normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+28,Malpemakanan,TASKA Institusi,BANDAR,Berat badan normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
 17,Malpemakanan,TASKA Institusi,BANDAR,Risiko berlebihan berat badan,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
 19,Normal,TASKA Institusi,BANDAR,Berat badan normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
 43,Normal,"TASKA Agensi Kerajaan (GENIUS, KEMAS, JPNIN, YPKT)",BANDAR,Berat badan normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
@@ -680,3 +682,4 @@ UMUR (BULAN),STATUS PEMAKANAN,JENIS TASKA,TASKA_LOKASI,BMI,banana_price,papaya_p
 26,Normal,TASKA Institusi,BANDAR,Berat badan normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
 33,Malpemakanan,TASKA Institusi,BANDAR,Susut,6.0,4.5,25.9,2.8,10.0,8.9,5.0,5.49,8.0,20.9
 21,Malpemakanan,TASKA Di Rumah,BANDAR,Berat badan normal,6.0,4.0,25.9,2.8,12.0,8.9,5.0,5.0,8.0,20.99
+22,Malpemakanan,TASKA Institusi,BANDAR,Berat badan normal,6.0,4.29,25.99,2.8,9.99,8.9,4.49,5.0,7.9,20.9
