@@ -22,7 +22,7 @@ def load_kids_data():
 
 @st.cache_data
 def load_model_data():
-    return pd.read_csv("Dataset/rf_model_3labels.csv")
+    return pd.read_csv("Dataset/rf_lor_model_3labels.csv")
     
 @st.cache_data
 def load_model_and_encoder():
