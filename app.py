@@ -357,6 +357,7 @@ elif page == "Random Forest Prediction":
         if df[col].dtype == "object":
             user_input[col] = st.selectbox(col, sorted(df[col].dropna().unique()))
         else:
+            tooltip = tooltips.get(col, "Enter a numeric value.")
             default_val = float(df[col].median())
             user_input[col] = input_with_tooltip(col, tooltip, key=col, default=default_val)
 
