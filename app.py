@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from streamlit_option_menu import option_menu
 
 st.set_page_config(
-    page_title="Kid's Nutrition Level Analysis and Prediction",
+    page_title="Children's Nutrition Level Analysis and Prediction",
     page_icon="🌮",  
     layout="wide"   
 )
@@ -97,7 +97,7 @@ def input_with_tooltip(label, tooltip, key, default):
 with st.sidebar:
     page = option_menu(
         "Navigation",  # Menu title
-        ["EDA - Price Data", "EDA - Kids Data", "Random Forest Prediction"],
+        ["EDA - Price Data", "EDA - Children Data", "Random Forest Prediction"],
         icons=["graph-up", "person-bounding-box", "cpu"],
         menu_icon="list",  # Top icon
         default_index=0  # Default selected page
@@ -207,13 +207,13 @@ if page == "EDA - Price Data":
             plt.tight_layout()
             st.pyplot(fig)
 
-elif page == "EDA - Kids Data":
-    st.title("Exploratory Data Analysis (EDA) - Kids Data")
+elif page == "EDA - Children Data":
+    st.title("Exploratory Data Analysis (EDA) - Children Data")
 
     df_kids = load_kids_data()
     sns.set_palette("pastel")
 
-    st.write("## Kids Dataset Sample")
+    st.write("## Children Dataset Sample")
     st.dataframe(df_kids.head())
     
     with st.expander("📊 Basic Distributions: Weight, Height & BMI", expanded=True): 
@@ -238,7 +238,7 @@ elif page == "EDA - Kids Data":
         st.write("### Distribution of BMI Classes")
         fig, ax = plt.subplots(figsize=(15, 7))
         sns.countplot(df_kids, x = 'BMI', hue = 'BMI', order = df_kids['BMI'].value_counts().index)
-        plt.title('Distribution of Kids\' BMI Classes')
+        plt.title('Distribution of Children\'s BMI Classes')
         plt.xlabel('BMI Class')
         plt.ylabel('Count')
         plt.tight_layout()
@@ -299,10 +299,10 @@ elif page == "EDA - Kids Data":
         st.pyplot(fig)
  
     with st.expander("📍 Location & Taska Insights", expanded=True):        
-        st.write("### Distribution of Kids' Residential Area")
+        st.write("### Distribution of Children's Residential Area")
         fig, ax = plt.subplots(figsize=(15, 7))
         sns.countplot(df_kids, x = 'DAERAH', hue = 'DAERAH', order = df_kids['DAERAH'].value_counts().index)
-        plt.title('Distribution of Kids\' Residential Area')
+        plt.title('Distribution of Children\'s Residential Area')
         plt.xlabel('District')
         plt.ylabel('Count')
         plt.tight_layout()
